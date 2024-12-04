@@ -15,4 +15,4 @@ Account stealer for telegram
 
 # How does this work?
 victim opening exe, and after this programm reads tdata folder in "%appdata%/Telegram Desktop/" and after reading, adding file to zip and sending to telegram
-![Uploading 2024-12-04-13-02-04.gif…]()
+![tutorial](https://github.com/user-attachments/assets/989fd766-00d8-429b-9688-1f6febc53de1)
